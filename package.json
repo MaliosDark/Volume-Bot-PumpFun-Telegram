@@ -1,0 +1,28 @@
+{
+  "name": "telegram-volume-bot",
+  "version": "1.0.0",
+  "description": "Bot that uses telegram for create volume on a coin",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@jup-ag/core": "^4.0.0-beta.21",
+    "@solana/spl-token": "^0.1.8",
+    "@solana/web3.js": "^1.95.2",
+    "axios": "^1.7.2",
+    "borsh": "^2.0.0",
+    "bs58": "^5.0.0",
+    "buffer": "^6.0.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "node-telegram-bot-api": "^0.66.0",
+    "solana-swap": "^1.1.2"
+  },
+  "resolutions": {
+    "rpc-websockets": "7.11.0"
+  }
+}
