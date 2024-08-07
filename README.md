@@ -20,7 +20,7 @@ Welcome to the Volume Bot for Pump Fun! This bot automates generating buy and se
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/MaliosDark/Volume-Bot-PumpFun-Telegram.git
-    cd volume-bot
+    cd Volume-Bot-PumpFun-Telegram
     ```
 
 2. **Install dependencies**:
