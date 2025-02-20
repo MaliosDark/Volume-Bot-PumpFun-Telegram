@@ -30,7 +30,7 @@ Welcome to the Volume Bot for Pump Fun! This bot automates generating buy and se
 
 ## Configuration
 1. **Set your private key**:
-    Open the `index.js` file and replace the empty `PRIVKEY` array with your private key in `Uint8Array` format.
+    Open the `volumebot.js` file and replace the empty `PRIVKEY` array with your private key in `Uint8Array` format.
 
 2. **Set the token address**:
     Replace the placeholder `ADD_TOKEN_ADDRESS_TO_BUY_SELL` with the actual token address you want to swap.
@@ -44,7 +44,7 @@ Welcome to the Volume Bot for Pump Fun! This bot automates generating buy and se
 ## Usage
 1. **Start the bot**:
     ```sh
-    node index.js
+    node volumebot.js
     ```
 
 2. **Interact with the bot via Telegram**:
