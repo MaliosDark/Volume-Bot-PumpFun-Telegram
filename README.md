@@ -124,4 +124,4 @@ Enjoy your trading! 🚀📈
 
 ---
 
-Feel free to customize and extend the bot according to your needs. If you have any questions or need further assistance, don't hesitate to contact @wherklow on Telegram.
+Feel free to customize and extend the bot according to your needs. If you have any questions or need further assistance, don't hesitate to contact @MaliosDark on Telegram.
